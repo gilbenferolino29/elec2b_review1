@@ -1,6 +1,8 @@
 # elec2b_review
 
-A new Flutter project.
+A new Flutter project. (SAFE CRACKER)
+
+![Sample Cracker](https://github.com/gilbenferolino29/elec2b_review1/blob/main/sample.gif?raw=true)
 
 ## Getting Started
 
